@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Python and Java
+- One Git Tip Learned: Don't start github :)
+- GitHub: @johnanthonysb-rgb
